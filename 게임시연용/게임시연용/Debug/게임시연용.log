@@ -1,0 +1,178 @@
+﻿  시연용.c
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(29,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_Passive' 왼쪽은 무시됩니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(32,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_Arms' 왼쪽은 무시됩니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(751,15): warning C4013: 'cRoomA1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(755,15): warning C4013: 'cRoomA2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(759,15): warning C4013: 'cRoomA3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(930,15): warning C4013: 'gRoomA1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(934,15): warning C4013: 'gRoomA2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(938,15): warning C4013: 'gRoomA3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1109,15): warning C4013: 'nRoomA1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1113,15): warning C4013: 'nRoomA2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1117,15): warning C4013: 'nRoomA3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1218,8): warning C4013: 'pot'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1222,8): warning C4013: 'box'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1226,9): warning C4013: 'hole'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1340,12): warning C4013: 'cRoomB1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1343,12): warning C4013: 'cRoomB2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1346,12): warning C4013: 'cRoomB3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1439,10): warning C4013: 'paper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1881,14): warning C4013: 'bookshelf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(1885,13): warning C4013: 'stranger'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2003,12): warning C4013: 'cRoomC1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2006,12): warning C4013: 'cRoomC2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2009,12): warning C4013: 'cRoomC3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2488,9): warning C4013: 'pipe'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2492,14): warning C4013: 'mousehole'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2588,10): warning C4013: 'bagprint'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2589,6): warning C4013: 'boss'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2678,9): warning C4013: 'lake'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3182,12): warning C4013: 'gRoomB1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3185,12): warning C4013: 'gRoomB2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3188,12): warning C4013: 'gRoomB3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3677,11): warning C4013: 'circle'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3799,12): warning C4013: 'gRoomC1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3802,12): warning C4013: 'gRoomC2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3805,12): warning C4013: 'gRoomC3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(3898,14): warning C4013: 'Gstranger'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(5029,12): warning C4013: 'nRoomB1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(5032,12): warning C4013: 'nRoomB2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(5035,12): warning C4013: 'nRoomB3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(5570,11): warning C4013: 'button'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(5692,12): warning C4013: 'nRoomC1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(5695,12): warning C4013: 'nRoomC2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(5698,12): warning C4013: 'nRoomC3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6661,25): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6668,25): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6675,25): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6682,25): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6689,25): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6696,25): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6703,25): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6785,10): warning C4013: 'SPEnd07'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6812,12): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6817,10): warning C4013: 'SPEnd10'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6822,10): warning C4013: 'SPEnd11'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6828,25): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6830,11): warning C4013: 'BadEnd01'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6832,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6832,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6832,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6832,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(7132,15): warning C4013: 'SPEnd04'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(7172,15): warning C4013: 'SPEnd05'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(7417,16): warning C4013: 'TrueEnd08'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8347,12): warning C4013: 'SPEnd06'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8350,12): warning C4013: 'NorEnd09'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8359,12): warning C4013: 'SPEnd03'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8362,12): warning C4013: 'BadEnd02'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8373,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8373,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8373,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8373,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8383,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8383,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8383,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8383,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8393,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8393,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8393,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8393,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8403,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8404,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8404,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8404,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8404,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8412,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8413,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8413,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8413,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8413,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8429,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8429,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8429,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8429,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8440,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8440,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8440,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8440,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8451,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8451,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8451,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8451,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8462,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8463,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8463,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8463,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8463,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8471,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8472,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8472,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8472,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8472,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8484,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8485,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8485,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8485,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8485,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8493,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8494,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8494,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8494,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8494,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8610,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8616,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8664,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8665,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8665,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8665,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8665,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8764,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8764,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8764,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8764,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8775,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8775,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8775,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8775,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8786,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8786,12): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8786,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8786,12): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8806,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8807,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8807,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8807,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8807,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8832,22): warning C4133: '함수': 'int [100]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8833,13): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8833,13): warning C4129: 'D': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8833,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8833,13): warning C4129: '':
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(114): warning C4715: 'keycontrol': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2400): warning C4716: 'cRoomB3': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2590): warning C4716: 'cRoomC1': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2779): warning C4716: 'cRoomC2': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(2971): warning C4716: 'cRoomC3': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(4441): warning C4716: 'gRoomC1': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(4630): warning C4716: 'gRoomC2': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(4819): warning C4716: 'gRoomC3': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6089): warning C4716: 'nRoomB3': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6278): warning C4716: 'nRoomC1': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6732): warning C4716: 'bagprint': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6656): warning C4716: 'nRoomC3': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6467): warning C4716: 'nRoomC2': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6824): warning C4716: 'infinity': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(6808): warning C4715: 'Freport': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8423): warning C4716: 'pot': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8526): warning C4716: 'hole': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8500): warning C4716: 'box': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8624): warning C4716: 'mousehole': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8592): warning C4716: 'bookshelf': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8671): warning C4716: 'circle': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8758): warning C4716: 'button': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8812): warning C4716: 'paper': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(8843): warning C4716: 'stranger': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(9314): warning C4716: 'pipe': 값을 반환해야 합니다.
+C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\게임시연용\시연용.c(9379): warning C4716: 'lake': 값을 반환해야 합니다.
+  게임시연용.vcxproj -> C:\Users\money\Documents\카카오톡 받은 파일\조롱이\게임시연용\Debug\게임시연용.exe
